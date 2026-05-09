@@ -26,12 +26,12 @@ La tecnología actual habilita soluciones que antes no eran viables para el usua
 
 - Registro y gestión de viajes (destinos, fechas, notas, transportes, gastos, compañeros y fotos)
 - Mapa interactivo con pines personalizados, rutas y filtros
-- Sistema de Wrapped anual y por viaje, exportable a redes sociales
+- Sistema de resumen anual y por viaje, exportable a redes sociales
 - Perfil de usuario personalizable con estadísticas de viaje
 - Comunidad social: publicaciones, reseñas, seguimiento de comunidades
 - Notificaciones push y recordatorios por mail
 - Sistema de monetización cosmético: iconos, collage completo, recompensas por anuncios
-- Registro de gastos manual, a través de un agente de gastos o fotos de ticket de compra
+- Registro de gastos manual, a través de un agente de gastos o fotos de tickets de compra
 - Autenticación con Google/Apple ID y verificación por teléfono
 - Soporte web responsive
 
