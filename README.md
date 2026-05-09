@@ -31,14 +31,19 @@ La tecnología actual habilita soluciones que antes no eran viables para el usua
 - Comunidad social: publicaciones, reseñas, seguimiento de comunidades
 - Notificaciones push y recordatorios por mail
 - Sistema de monetización cosmético: iconos, collage completo, recompensas por anuncios
-- Registro de gastos manual, a través de un agente inteligente de gastos o fotos de tickets de compra
+- Registro de gastos:
+  - Carga manual
+  - Carga asistida por agente inteligente de gastos
+  - Carga mediante fotos de tickets de compra
 - Autenticación con Google/Apple ID y verificación por teléfono
 - Soporte web responsive
 
 ## Qué queda fuera (fuera del alcance)
 
 - Integración con agencias de viajes o reservas de vuelos/hoteles
-- Funcionalidad offline completa (solo se incluye consulta de itinerarios y gastos ya sincronizados, y visualización de fotos/notas descargadas automáticamente en caché local)
+- Funcionalidad offline completa
+  - Solo se incluye consulta de itinerarios y gastos ya sincronizados
+  - Visualización de fotos y notas descargadas automáticamente en caché local
 - Traducción multilenguaje en esta versión
 - Panel de administración con métricas avanzadas de uso
 
