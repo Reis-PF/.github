@@ -32,7 +32,7 @@ La tecnología actual habilita soluciones que antes no eran viables para el usua
 - Notificaciones push y recordatorios por mail
 - Sistema de monetización cosmético: iconos, collage completo, recompensas por anuncios
 - Registro de gastos manual, a través de un agente de gastos o fotos de ticket de compra
-- Autenticación con Google/IOS y verificación por teléfono
+- Autenticación con Google/iOS y verificación por teléfono
 - Soporte web responsive
 
 ## Qué queda fuera (fuera del alcance)
