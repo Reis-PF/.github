@@ -38,7 +38,7 @@ La tecnología actual habilita soluciones que antes no eran viables para el usua
 ## Qué queda fuera (fuera del alcance)
 
 - Integración con agencias de viajes o reservas de vuelos/hoteles
-- Funcionalidad offline completa (solo se incluye acceso limitado a consultas y visualización de contenido previamente guardado)
+- Funcionalidad offline completa (solo se incluye consulta de itinerarios y gastos ya sincronizados, y visualización de fotos/notas descargadas automáticamente en caché local)
 - Traducción multilenguaje en esta versión
 - Panel de administración con métricas avanzadas de uso
 
