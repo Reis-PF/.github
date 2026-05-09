@@ -57,3 +57,14 @@ Para garantizar la cobertura de todas las áreas técnicas y funcionales del pro
 - **Gallo:** Backend Developer - Mobile Developer
 - **Oría:** Business Analyst - UX/UI Designer
 - **Pasté:** Frontend Developer - Tester
+
+### Normas de trabajo
+
+- Planificación por objetivos y entregas iterativas.
+- Seguimiento de tareas y avances dentro del repositorio.
+- Revisión colaborativa de cambios antes de integrar nuevas funcionalidades.
+
+### Canales de comunicación
+
+- Coordinación general y seguimiento del proyecto en GitHub.
+- Espacios de sincronización del equipo para decisiones funcionales y técnicas.
