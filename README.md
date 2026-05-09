@@ -31,14 +31,14 @@ La tecnología actual habilita soluciones que antes no eran viables para el usua
 - Comunidad social: publicaciones, reseñas, seguimiento de comunidades
 - Notificaciones push y recordatorios por mail
 - Sistema de monetización cosmético: iconos, collage completo, recompensas por anuncios
-- Registro de gastos manual, a través de un agente de gastos o fotos de tickets de compra
+- Registro de gastos manual, a través de un agente inteligente de gastos o fotos de tickets de compra
 - Autenticación con Google/Apple ID y verificación por teléfono
 - Soporte web responsive
 
 ## Qué queda fuera (fuera del alcance)
 
 - Integración con agencias de viajes o reservas de vuelos/hoteles
-- Funcionalidad offline completa; en esta versión solo habrá acceso limitado a algunas funcionalidades sin conexión (por ejemplo, consulta de información ya cargada y visualización de contenido previamente guardado)
+- Funcionalidad offline completa (solo se incluye acceso limitado a consultas y visualización de contenido previamente guardado)
 - Traducción multilenguaje en esta versión
 - Panel de administración con métricas avanzadas de uso
 
