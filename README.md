@@ -38,7 +38,7 @@ La tecnología actual habilita soluciones que antes no eran viables para el usua
 ## Qué queda fuera (fuera del alcance)
 
 - Integración con agencias de viajes o reservas de vuelos/hoteles
-- Funcionalidad offline completa (acceso limitado a algunas funcionalidades)
+- Funcionalidad offline completa; en esta versión solo habrá acceso limitado a algunas funcionalidades sin conexión
 - Traducción multilenguaje en esta versión
 - Panel de administración con métricas avanzadas de uso
 
